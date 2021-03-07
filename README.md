@@ -1,4 +1,4 @@
-# Pushwap_Epitech_Project_2019
+# Pushswap_Epitech_Project_2020
 
 Module: CPE, Elementary Programming in C.
 
